@@ -479,17 +479,17 @@ footer p {
 }
 .we {
     font-weight: bold;
-    font-size: 13px;
-    padding-bottom: 15px;
+    font-size: 10px;
+    padding-bottom: 10px;
 }
 .sec {
     opacity: 50%;
-    padding-bottom: 15px;
-    font-size: 13px;
+    padding-bottom: 10px;
+    font-size: 9px;
 }
 .wait {
-    font-size: 10px;
-    padding-bottom: 10px;
+    font-size: 8px;
+    padding-bottom: 7px;
 }
 .verify {
     display: none;
