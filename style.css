@@ -472,6 +472,7 @@ footer p {
     width: 259.2px;
     margin-left: 1%;
     border-radius: 10px;
+    padding-bottom: 20px;
 }
 .verify p {
     text-align: center;
