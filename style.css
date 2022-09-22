@@ -274,7 +274,7 @@ footer p {
 
 /* responsiveness */
 
-@media (max-width: 372px) {
+@media (max-width: 347px) {
     *
 {
     padding: 0;
@@ -300,6 +300,7 @@ body .intro {
 .ind-logo {
     display: flex;
     background-color: rgb(212, 10, 10);
+    
 }
 .ind-logo img {
     padding: 7px;
@@ -313,9 +314,10 @@ body .intro {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color: rgb(185, 234, 247);
     padding: 3px;
-    font-size: 10px;
+    font-size: 7px;
 }
 .head {
+    width: auto;
     padding-bottom: 20px;
 }
 .intro {
@@ -333,7 +335,7 @@ body .intro {
     padding: 10px;
 }
 .img2 {
-    width: 259.2px;
+    width: 160px;
 }
 .butts1 button {
     width: 230px;
