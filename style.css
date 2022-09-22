@@ -386,6 +386,7 @@ body .intro {
     width: 235px;
     margin: 2%;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 10%;
 }
 .ques p span {
     font-weight: bold;
