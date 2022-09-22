@@ -81,7 +81,7 @@ function init() {
     const indImg = document.querySelector(".ind-img");
   
     let postUrl = encodeURI(document.location.href);
-    let postTitle = encodeURI("Ready to be the next winner of this Promo? Check this out: ");
+    let postTitle = encodeURI("It's been 26 years of great tast. Indomie is celebrating it's 26 years of good taste.      Check this out, cash giveaways in collaboration with Indomie's 26th Anniversary.     I Have Recieved Mine.      Open this link to stand a chance of winning: ");
     let postImg = encodeURI(indImg.src);  
 
     whatsappBtn.setAttribute(
